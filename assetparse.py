@@ -6,6 +6,9 @@ Gets assets table, coordinates parsing, dumping, and distributing of
 data held therein. 
 
 by Andrew Pedelty 11/19/2012
+
+deprecated as of 1/2/2013
+
 """
 
 import csv
